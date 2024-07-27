@@ -1,18 +1,18 @@
-# DerpFest AOSP GSI
+# AOSP Extended GSI
 
 ## Build
 To get started with building DerpFest AOSP GSI, you'll need to get familiar with [Git and Repo](https://source.android.com/source/using-repo.html) as well as [How to build a GSI](https://github.com/phhusson/treble_experimentations/wiki/How-to-build-a-GSI%3F).
 - Create a new working directory for your Pixel Experience build and navigate to it:
     ```
-    mkdir derp; cd derp
+    mkdir treble_aosp_GSI; cd treble_aosp_GSI
     ```
 - Clone this repo:
     ```
-    git clone https://github.com/KoysX/treble_DerpFest_GSI.git -b 14
+    git clone https://github.com/avef1000/aospxtended_GSI
     ```
 - Finally, start the build script:
     ```
-    bash treble_DerpFest_GSI/build.sh
+    bash aospxtended_GSI/build.sh
     ```
 
 ## Credits
